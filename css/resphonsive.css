@@ -1,0 +1,20 @@
+
+@media all and  (max-1006px){
+	
+ .portfolio-area .box{
+	 
+	 width:80%;
+	 
+ }
+	
+	
+	
+}
+@media all and  (max-991px){
+	 .portfolio-area .box{
+	 
+	 width:50%;
+	 
+ }
+	
+}
